@@ -1,0 +1,18 @@
+const Discord = require('discord.js');
+const fetch = require("node-fetch");
+
+exports.run = async (client, message, args) => {
+
+}
+
+exports.help = {
+  name: "",
+  description: "",
+  usage: "",
+  example: ""
+}
+
+exports.conf = {
+  aliases: [],
+  cooldown: 3
+}
